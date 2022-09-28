@@ -18,6 +18,8 @@ Hangman game is a simple word guessing game. It played with two or more people. 
 - "_ _ name_ _ == _ _ main_ _" is used to execute some code only if the file runs directly, and is not imported
 - Character checking evaluates alphabetic letters, which length should be one. 
 
+**Milestone2:** 
+--- 
 ### 2. **Check if the guessed character is in the word**
  -  ### I used two functions for this task.
     - check_guess(): Check the character present in the randomly chosen word.
