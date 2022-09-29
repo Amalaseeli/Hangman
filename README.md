@@ -11,7 +11,7 @@ Hangman game is a simple word guessing game. It played with two or more people. 
  **Milestone1:** 
 ---
 
-### 1. **Create the variables for the game**
+###  **1. Create the variables for the game**
 - Create the list containing the name of your favorite fruits
 - Get the output by using the print() in-built function.
 - random.choice() method used for randomly choosing the one word from the list. 
@@ -20,9 +20,19 @@ Hangman game is a simple word guessing game. It played with two or more people. 
 
 **Milestone2:** 
 --- 
-### 2. **Check if the guessed character is in the word**
+###  **2. Check if the guessed character is in the word**
  -  ### I used two functions for this task.
     - check_guess(): Check the character present in the randomly chosen word.
     - ask_for_input() : 
         * If the guessed letter is valid with the condition, the function will be checked whether the character occurs in the word.
         * If the guessed letter is not valid it will repeat the loop until getting the valid input. 
+        
+## **Milestone3:**
+### **3. Create the Game class**
+- ### I created two methods inside the class
+    - check_guess() method: This method checks whether the word is present in the guessed word.
+    - ask_for_input() method: This method creates a list of single alphabetical characters with the user input. 
+
+
+  
+
