@@ -44,7 +44,7 @@ class Hangman():
     
     def check_guess(self,guess):
         guess=guess.lower()
-        print(self.word)
+        #print(self.word)
         '''
         Checks if the guess is in the word.
         If it is, it replaces the '_' in the word_guessed list with the guess.
