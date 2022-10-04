@@ -33,6 +33,16 @@ Hangman game is a simple word guessing game. It played with two or more people. 
     - check_guess() method: This method checks whether the word is present in the guessed word.
     - ask_for_input() method: This method creates a list of single alphabetical characters with the user input. 
 
+## **Milestone4:**
+### **4. Create a function that will run all the code to run the game as expected.**
+- Create function called play_game ( )
+
+    
+
+    
+ 
+
+
 
   
 
